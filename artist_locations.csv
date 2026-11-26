@@ -1,0 +1,501 @@
+Artist ID,Artist Name,Place,Latitude,Longitude,Location Level
+0,Drake,Toronto,43.6525,-79.38167,Place
+1,Taylor Swift,"West Reading, Pennsylvania",40.33417,-75.94667,Place
+2,Bad Bunny,"Bayamón, Puerto Rico",18.38,-66.16333,Place
+3,The Weeknd,Metropolitan Toronto,43.7072,-79.3805,Place
+4,Justin Bieber,"London, Ontario",42.985,-81.24528,Place
+5,Ariana Grande,"Boca Raton, Florida",26.37778,-80.11389,Place
+6,Travis Scott,Houston,29.75667,-95.36528,Place
+7,Kanye West,Atlanta,33.74889,-84.39,Place
+8,Ed Sheeran,"Halifax, West Yorkshire",53.725,-1.863,Place
+9,Eminem,"St. Joseph, Missouri",39.75806,-94.83667,Place
+10,Rihanna,"Saint Michael, Barbados",13.11806,-59.60306,Place
+11,Billie Eilish,Los Angeles,34.05,-118.25,Place
+12,Bruno Mars,Honolulu,21.3,-157.85,Place
+13,Kendrick Lamar,Compton,33.89667,-118.225,Place
+14,Post Malone,"Syracuse, New York",43.04694,-76.14444,Place
+15,J Balvin,Medellín,6.23083,-75.59056,Place
+16,Future,Atlanta,33.74889,-84.39,Place
+17,BTS,Seoul,37.56,126.99,Place
+18,Ozuna,"San Juan, Puerto Rico",18.40639,-66.06389,Place
+19,Coldplay,London,51.50722,-0.1275,Place
+20,Juice WRLD,Chicago,41.88194,-87.62778,Place
+21,Chris Brown,"Tappahannock, Virginia",37.92222,-76.86306,Place
+22,Nicki Minaj,Port of Spain,10.667,-61.517,Place
+23,Lana Del Rey,"New York City, U.S.",40.7128,-74.0061,Place
+24,David Guetta,Paris,48.8567,2.3522,Place
+25,Dua Lipa,London,51.50722,-0.1275,Place
+26,Daddy Yankee,"San Juan, Puerto Rico",18.40639,-66.06389,Place
+27,Rauw Alejandro,"San Juan, Puerto Rico",18.40639,-66.06389,Place
+28,Anuel AA,"Carolina, Puerto Rico",18.40611,-65.96722,Place
+29,XXXTENTACION,"Plantation, Florida",26.12444,-80.24944,Place
+30,Imagine Dragons,"Las Vegas, Nevada",36.16917,-115.14056,Place
+31,Lil Wayne,New Orleans,29.9761,-90.0783,Place
+32,21 Savage,Plaistow,51.5243,0.0245,Place
+33,SZA,St. Louis,38.62722,-90.19778,Place
+34,Arijit Singh,Jiaganj,24.23,88.27,Place
+35,Lady Gaga,New York City,40.7128,-74.0061,Place
+36,KAROL G,Medellín,6.23083,-75.59056,Place
+37,Lil Baby,Atlanta,33.74889,-84.39,Place
+38,Maroon 5,Los Angeles,34.05,-118.25,Place
+39,Khalid,"Fort Stewart, Georgia",31.88,-81.6075,Place
+40,Beyoncé,Houston,29.75667,-95.36528,Place
+41,Maluma,Medellín,6.23083,-75.59056,Place
+42,Feid,Medellín,6.23083,-75.59056,Place
+43,Calvin Harris,Dumfries,55.07,-3.603,Place
+44,Myke Towers,"Río Piedras, Puerto Rico",18.39556,-66.04583,Place
+45,Linkin Park,"Agoura Hills, California",34.15333,-118.76167,Place
+46,Peso Pluma,Zapopan,20.717,-103.4,Place
+47,J. Cole,Frankfurt,50.11056,8.68222,Place
+48,Lil Uzi Vert,Philadelphia,39.9528,-75.1636,Place
+49,Sia,Adelaide,-34.9275,138.6,Place
+50,Doja Cat,Los Angeles,34.05,-118.25,Place
+51,Shakira,Barranquilla,10.98333,-74.80194,Place
+52,Morgan Wallen,"Sneedville, Tennessee",36.53194,-83.21417,Place
+53,Young Thug,Atlanta,33.74889,-84.39,Place
+54,Farruko,"Bayamón, Puerto Rico",18.38,-66.16333,Place
+55,Shawn Mendes,Toronto,43.6525,-79.38167,Place
+56,Harry Styles,Worcestershire,52.2,-2.167,Place
+57,Queen,London,51.50722,-0.1275,Place
+58,Sam Smith,London,51.50722,-0.1275,Place
+59,One Direction,London,51.50722,-0.1275,Place
+60,Metro Boomin,St. Louis,38.62722,-90.19778,Place
+61,Olivia Rodrigo,"Murrieta, California",33.56944,-117.2025,Place
+62,Adele,London,51.50722,-0.1275,Place
+63,Pritam,Calcutta,22.5675,88.37,Place
+64,Katy Perry,"Santa Barbara, California",34.417,-119.7,Place
+65,Gunna,"College Park, Georgia",33.6175,-84.4675,Place
+66,Arctic Monkeys,Sheffield,53.38083,-1.47028,Place
+67,Fuerza Regida,"San Bernardino, California",34.10417,-117.29222,Place
+68,Junior H,Guanajuato,21.017,-101.267,Place
+69,"Tyler, The Creator","Hawthorne, California",33.91722,-118.34861,Place
+70,Selena Gomez,"Grand Prairie, Texas",32.71528,-96.96611,Place
+71,Ty Dolla $ign,Los Angeles,34.05,-118.25,Place
+72,The Beatles,Liverpool,53.4072,-2.9917,Place
+73,Pitbull,Miami,25.77417,-80.19361,Place
+74,Nicky Jam,"Lawrence, Massachusetts",42.70694,-71.16361,Place
+75,Playboi Carti,Atlanta,33.74889,-84.39,Place
+76,Halsey,"Edison, New Jersey",40.5274,-74.3933,Place
+77,Wiz Khalifa,"Minot, North Dakota",48.2376139,-101.2790056,Place
+78,Michael Jackson,"Gary, Indiana",41.59056,-87.34694,Place
+79,Sabrina Carpenter,"Quakertown, Pennsylvania",40.44056,-75.34056,Place
+80,Frank Ocean,"Long Beach, California",33.76833,-118.19556,Place
+81,Die drei ???,Sanderbusch,53.483,8.0,Place
+82,JAŸ-Z,New York City,40.7128,-74.0061,Place
+83,A$AP Rocky,New York City,40.7128,-74.0061,Place
+84,Miley Cyrus,"Franklin, Tennessee",35.92917,-86.8575,Place
+85,The Chainsmokers,New York City,40.7128,-74.0061,Place
+86,Marshmello,Philadelphia,39.9528,-75.1636,Place
+87,Cardi B,New York City,40.7128,-74.0061,Place
+88,Twenty One Pilots,"Columbus, Ohio",39.96222,-83.00056,Place
+89,Disney,Cape Town,-33.92528,18.42389,Place
+90,Arcángel,New York City,40.7128,-74.0061,Place
+91,Red Hot Chili Peppers,Los Angeles,34.05,-118.25,Place
+92,Camila Cabello,Cojímar,23.135,-82.394,Place
+93,$uicideboy$,"New Orleans, Louisiana",29.9761,-90.0783,Place
+94,OneRepublic,"Colorado Springs, Colorado",38.85778,-104.60583,Place
+95,Avicii,Stockholm,59.32944,18.06861,Place
+96,Diplo,"Tupelo, Mississippi",34.25972,-88.72583,Place
+97,Snoop Dogg,"Long Beach, California",33.76833,-118.19556,Place
+98,Romeo Santos,New York City,40.7128,-74.0061,Place
+99,50 Cent,New York City,40.7128,-74.0061,Place
+100,Natanael Cano,Hermosillo,29.09889,-110.95417,Place
+101,YoungBoy Never Broke Again,"Baton Rouge, Louisiana",30.4475,-91.17861,Place
+102,Mac Miller,Pittsburgh,40.43972,-79.97639,Place
+103,DaBaby,Cleveland,41.4992,-81.6947,Place
+104,Don Toliver,Houston,29.75667,-95.36528,Place
+105,Zach Bryan,Yokosuka,35.2815,139.672083,Place
+106,Kygo,Singapore,1.283,103.833,Place
+107,Sech,Río Abajo,9.01944,-79.50139,Place
+108,The Neighbourhood,"Newbury Park, California",34.18417,-118.90972,Place
+109,Quavo,"Athens, Georgia",33.95,-83.383,Place
+110,Henrique & Juliano,Palmeirópolis,-13.067,-48.367,Place
+111,Luke Combs,"Huntersville, North Carolina",35.40611,-80.87167,Place
+112,Elton John,Pinner,51.5932,-0.3894,Place
+113,Manuel Turizo,Montería,8.75,-75.883,Place
+114,Trippie Redd,"Canton, Ohio",40.79861,-81.375,Place
+115,Tate McRae,Calgary,51.0475,-114.0625,Place
+116,Lil Peep,"Allentown, Pennsylvania",40.60167,-75.47722,Place
+117,Metallica,Los Angeles,34.05,-118.25,Place
+118,Don Omar,"Santurce, San Juan, Puerto Rico",18.44667,-66.06889,Place
+119,USHER,Dallas,32.77917,-96.80889,Place
+120,Charlie Puth,Rumson,40.37194,-73.99944,Place
+121,Justin Timberlake,"Memphis, Tennessee",35.14611,-90.05194,Place
+122,Tiësto,Breda,51.58889,4.77583,Place
+123,Sean Paul,"Kingston, Jamaica",17.97139,-76.79306,Place
+124,Tyga,"Compton, California",33.89667,-118.225,Place
+125,Kali Uchis,"Alexandria, Virginia",38.82028,-77.05028,Place
+126,Kodak Black,"Pompano Beach, Florida",26.23472,-80.12556,Place
+127,Jason Derulo,"Miramar, Florida",25.97667,-80.32306,Place
+128,BLACKPINK,Seoul,37.56,126.99,Place
+129,JHAYCO,Río Piedras,18.39556,-66.04583,Place
+130,Bebe Rexha,New York City,40.7128,-74.0061,Place
+131,Daft Punk,Paris,48.8567,2.3522,Place
+132,Luis Miguel,San Juan,18.40639,-66.06389,Place
+133,Demi Lovato,"Albuquerque, New Mexico",35.08444,-106.65167,Place
+134,Akon,St. Louis,38.62722,-90.19778,Place
+135,AC/DC,Sydney,-33.86778,151.21,Place
+136,Sebastian Yatra,Medellín,6.23083,-75.59056,Place
+137,Carín León,Hermosillo,29.09889,-110.95417,Place
+138,Alan Walker,Northampton,52.2303748,-0.8937527,Place
+139,A Boogie Wit da Hoodie,The Bronx,40.83722,-73.88611,Place
+140,Fleetwood Mac,London,51.50722,-0.1275,Place
+141,Hozier,"Newcastle, County Wicklow",53.0692,-6.0621,Place
+142,Ellie Goulding,Hereford,52.056,-2.716,Place
+143,Radiohead,Abingdon,51.67167,-1.27833,Place
+144,Big Sean,"Santa Monica, California",34.02194,-118.48139,Place
+145,Flo Rida,"Miami Gardens, Florida",25.94194,-80.25639,Place
+146,P!nk,"Doylestown, Pennsylvania",40.31278,-75.12889,Place
+147,Nirvana,"Aberdeen, Washington",46.95861,-123.81056,Place
+148,Pop Smoke,Brooklyn,40.65,-73.95,Place
+149,Britney Spears,"McComb, Mississippi",31.2444722,-90.4715917,Place
+150,James Arthur,"Middlesbrough, North Yorkshire",54.57611,-1.23472,Place
+151,Tory Lanez,Brampton,43.68833,-79.76083,Place
+152,Pharrell Williams,"Virginia Beach, Virginia",36.85,-75.97778,Place
+153,DJ Snake,Paris,48.8567,2.3522,Place
+154,Daniel Caesar,"Scarborough, Ontario",43.75583,-79.23083,Place
+155,Black Eyed Peas,Los Angeles,34.05,-118.25,Place
+156,Swae Lee,"Inglewood, California",33.9575,-118.34611,Place
+157,Shreya Ghoshal,Berhampore,24.1,88.25,Place
+158,Duki,Buenos Aires,-34.60389,-58.38139,Place
+159,Bizarrap,Ramos Mejía,-34.65,-58.567,Place
+160,Migos,"Lawrenceville, Georgia",33.95222,-83.99333,Place
+161,The Kid LAROI,Sydney,-33.86778,151.21,Place
+162,Marília Mendonça,Cristianópolis,-17.19889,-48.69806,Place
+163,Anitta,Rio de Janeiro,-22.91111,-43.20556,Place
+164,Green Day,"Rodeo, California",38.03306,-122.26694,Place
+165,Lil Durk,Chicago,41.88194,-87.62778,Place
+166,Polo G,Chicago,41.88194,-87.62778,Place
+167,A.R. Rahman,Madras,13.0825,80.275,Place
+168,G-Eazy,"Oakland, California",37.80444,-122.27083,Place
+169,Kid Cudi,Cleveland,41.4992,-81.6947,Place
+170,Justin Quiles,"Bridgeport, Connecticut",41.18639,-73.19556,Place
+171,Bob Marley & The Wailers,"Kingston, Jamaica",17.97139,-76.79306,Place
+172,Stray Kids,Seoul,37.56,126.99,Place
+173,Anirudh Ravichander,Chennai,13.0825,80.275,Place
+174,Ne-Yo,"Camden, Arkansas",33.58444,-92.83417,Place
+175,Gucci Mane,"Bessemer, Alabama",33.37111,-86.97278,Place
+176,ROSALÍA,Sant Cugat del Vallès,41.467,2.083,Place
+177,Charli xcx,Cambridge,52.205,0.1225,Place
+178,Joji,Osaka,34.69389,135.50222,Place
+179,Fall Out Boy,"Wilmette, Illinois",42.07722,-87.72361,Place
+180,PARTYNEXTDOOR,Mississauga,43.6,-79.65,Place
+181,Jorge & Mateus,Itumbiara,-18.41667,-49.21667,Place
+182,Offset,"Lawrenceville, Georgia",33.95222,-83.99333,Place
+183,Panic! At The Disco,"Las Vegas, Nevada",36.16917,-115.14056,Place
+184,Tame Impala,Perth,-32.0,115.9,Place
+185,Quevedo,Madrid,40.4169,-3.7033,Place
+186,Morat,Bogotá,4.71111,-74.07222,Place
+187,Zara Larsson,Solna,59.35,18.0,Place
+188,Tito Double P,Tepic,21.50833,-104.89306,Place
+189,Jul,Marseille,43.2964,5.37,Place
+190,2Pac,Manhattan,40.7127,-74.0059,Place
+191,Gorillaz,London,51.50722,-0.1275,Place
+192,Lewis Capaldi,Glasgow,55.86111,-4.25,Place
+193,Grupo Frontera,"Edinburg, Texas",26.30417,-98.16389,Place
+194,Camilo,Medellín,6.23083,-75.59056,Place
+195,Lenny Tavárez,San Juan,18.40639,-66.06389,Place
+196,2 Chainz,"College Park, Georgia",33.6175,-84.4675,Place
+197,NF,"Gladwin, Michigan",43.98306,-84.48972,Place
+198,Bryson Tiller,"Louisville, Kentucky",38.25611,-85.75139,Place
+199,Rels B,Palma de Mallorca,39.567,2.65,Place
+200,Roddy Ricch,"Compton, California",33.89667,-118.225,Place
+201,Guns N' Roses,Los Angeles,34.05,-118.25,Place
+202,Mariah Carey,"Huntington, New York",40.86,-73.35222,Place
+203,Noah Kahan,"Strafford, Vermont",43.87,-72.37722,Place
+204,Megan Thee Stallion,San Antonio,29.425,-98.4939,Place
+205,Christian Nodal,Caborca,30.717,-112.15,Place
+206,Brent Faiyaz,"Columbia, Maryland",39.20361,-76.85694,Place
+207,Martin Garrix,Amstelveen,52.3,4.85,Place
+208,Banda MS de Sergio Lizárraga,Mazatlán,23.217,-106.417,Place
+209,Pink Floyd,London,51.50722,-0.1275,Place
+210,mgk,Houston,29.75667,-95.36528,Place
+211,Wisin & Yandel,Cayey,18.11167,-66.16583,Place
+212,Dr. Dre,"Compton, California",33.89667,-118.225,Place
+213,Mora,"San Juan, Puerto Rico",18.40639,-66.06389,Place
+214,Cigarettes After Sex,"El Paso, Texas",31.75917,-106.48861,Place
+215,Childish Gambino,Edwards Air Force Base,34.90556,-117.88361,Place
+216,Wisin,Cayey,18.11167,-66.16583,Place
+217,Major Lazer,Los Angeles,34.05,-118.25,Place
+218,John Mayer,"Bridgeport, Connecticut",41.18639,-73.19556,Place
+219,Miguel,Lynwood,33.92472,-118.20194,Place
+220,Lil Nas X,Atlanta,33.74889,-84.39,Place
+221,System Of A Down,"Glendale, California",34.14611,-118.255,Place
+222,Logic,"Rockville, Maryland",39.08,-77.14278,Place
+223,ABBA,Stockholm,59.32944,18.06861,Place
+224,Becky G,"Inglewood, California",33.9575,-118.34611,Place
+225,Yandel,Cayey,18.11167,-66.16583,Place
+226,Enrique Iglesias,Madrid,40.4169,-3.7033,Place
+227,Lil Yachty,"Mableton, Georgia",33.81833,-84.57611,Place
+228,Luis R Conriquez,Caborca,30.717,-112.15,Place
+229,Zion & Lennox,"Carolina, Puerto Rico",18.40611,-65.96722,Place
+230,5 Seconds of Summer,Sydney,-33.86778,151.21,Place
+231,Jack Harlow,"Louisville, Kentucky",38.25611,-85.75139,Place
+232,TWICE,Seoul,37.56,126.99,Place
+233,Ñengo Flow,"Río Piedras, Puerto Rico",18.39556,-66.04583,Place
+234,Ava Max,Milwaukee,43.05,-87.95,Place
+235,ZAYN,Bradford,53.79444,-1.75194,Place
+236,Michael Bublé,Burnaby,49.267,-122.967,Place
+237,Macklemore,Seattle,47.60389,-122.33,Place
+238,Anne-Marie,East Tilbury,51.4657,0.4294,Place
+239,The Rolling Stones,London,51.50722,-0.1275,Place
+240,Frank Sinatra,"Hoboken, New Jersey",40.745,-74.0325,Place
+241,Robin Schulz,Osnabrück,52.283,8.05,Place
+242,Bryant Myers,Carolina,18.40611,-65.96722,Place
+243,Gusttavo Lima,Presidente Olegário,-18.41778,-46.41778,Place
+244,Eladio Carrion,"Kansas City, Kansas",39.10667,-94.67639,Place
+245,Grupo Firme,Tijuana,32.525,-117.03333,Place
+246,Amitabh Bhattacharya,India,21.0,78.0,Country
+247,Alicia Keys,New York City,40.7128,-74.0061,Place
+248,Kesha,Los Angeles,34.05,-118.25,Place
+249,LAUV,San Francisco,37.7775,-122.41639,Place
+250,Madonna,"Bay City, Michigan",43.595,-83.88861,Place
+251,Reik,Mexicali,32.66333,-115.46778,Place
+252,John Legend,"Springfield, Ohio",39.92,-83.77083,Place
+253,Meghan Trainor,Nantucket,41.28278,-70.09944,Place
+254,Lil Tecca,New York City,40.7128,-74.0061,Place
+255,Lorde,Takapuna,-36.787,174.772,Place
+256,MC Ryan SP,São Paulo,-23.55,-46.633,Place
+257,Chris Stapleton,"Lexington, Kentucky",38.04639,-84.49694,Place
+258,French Montana,Casablanca,33.533,-7.583,Place
+259,Melanie Martinez,New York City,40.7128,-74.0061,Place
+260,Elvis Presley,"Tupelo, Mississippi",34.25972,-88.72583,Place
+261,Rick Ross,"Clarksdale, Mississippi",34.2,-90.567,Place
+262,Cris MJ,La Serena,-29.9,-71.25,Place
+263,Zedd,Saratov,51.53,46.035,Place
+264,Paramore,"Franklin, Tennessee",35.92917,-86.8575,Place
+265,Chance the Rapper,Chicago,41.88194,-87.62778,Place
+266,Ninho,Paris,48.8567,2.3522,Place
+267,blackbear,"Daytona Beach, Florida",29.21083,-81.08944,Place
+268,Creedence Clearwater Revival,"El Cerrito, California",37.91583,-122.31167,Place
+269,T-Pain,"Tallahassee, Florida",30.44194,-84.28194,Place
+270,Jung Kook,Busan,35.18,129.075,Place
+271,Skrillex,Los Angeles,34.05,-118.25,Place
+272,DJ Khaled,New Orleans,29.9761,-90.0783,Place
+273,Wizkid,Ojuelegba,6.50927,3.36685,Place
+274,Oasis,Manchester,53.47944,-2.24528,Place
+275,Christina Aguilera,New York City,40.7128,-74.0061,Place
+276,Slipknot,"Des Moines, Iowa",41.59083,-93.62083,Place
+277,Irshad Kamil,Malerkotla,30.5167,75.8833,Place
+278,Little Mix,London,51.50722,-0.1275,Place
+279,Beéle,Barranquilla,10.98333,-74.80194,Place
+280,The Notorious B.I.G.,New York City,40.7128,-74.0061,Place
+281,Mitski,Mie Prefecture,34.7,136.5,Place
+282,Tainy,"San Juan, Puerto Rico",18.40639,-66.06389,Place
+283,Zé Neto & Cristiano,Goiânia,-16.667,-49.25,Place
+284,Rammstein,Berlin,52.52,13.405,Place
+285,Labrinth,Hackney,51.55,-0.05833,Place
+286,Chencho Corleone,Guayama,17.97417,-66.11,Place
+287,Darell,Puerto Rico,18.217,-66.5,Place
+288,Bon Jovi,"Sayreville, New Jersey",40.4625,-74.325,Place
+289,The Killers,Las Vegas,36.16917,-115.14056,Place
+290,blink-182,"Poway, California",32.97,-117.03861,Place
+291,Summer Walker,Atlanta,33.74889,-84.39,Place
+292,Jhené Aiko,Los Angeles,34.05,-118.25,Place
+293,Kehlani,"Oakland, California",37.80444,-122.27083,Place
+294,Clean Bandit,Cambridge,52.205,0.1225,Place
+295,David Bowie,London,51.50722,-0.1275,Place
+296,U2,Dublin,53.35,-6.26028,Place
+297,Aventura,The Bronx,40.83722,-73.88611,Place
+298,Foo Fighters,Seattle,47.60389,-122.33,Place
+299,The 1975,Wilmslow,53.325,-2.239,Place
+300,Maria Becerra,Quilmes,-34.71667,-58.26667,Place
+301,Plan B,London,51.50722,-0.1275,Place
+302,Steve Lacy,"Compton, California",33.89667,-118.225,Place
+303,De La Ghetto,New York City,40.7128,-74.0061,Place
+304,Troye Sivan,Johannesburg,-26.20444,28.04556,Place
+305,Conan Gray,"Lemon Grove, California",32.74139,-117.03167,Place
+306,Ludacris,"Champaign, Illinois",40.1164,-88.2436,Place
+307,Burna Boy,Port Harcourt,4.82417,7.03361,Place
+308,Danny Ocean,Caracas,10.50611,-66.91444,Place
+309,Meek Mill,Philadelphia,39.9528,-75.1636,Place
+310,My Chemical Romance,New Jersey,40.0,-74.5,Place
+311,Alessia Cara,Mississauga,43.6,-79.65,Place
+312,Vishal-Shekhar,Mumbai,19.07611,72.8775,Place
+313,Paulo Londra,Córdoba,-31.417,-64.183,Place
+314,La Arrolladora Banda El Limón De Rene Camacho,Mexico,23.0,-102.0,Country
+315,Yeat,"Irvine, California",33.66944,-117.82306,Place
+316,Matheus & Kauan,Itapuranga,-15.56194,-49.94889,Place
+317,Alok,Goiânia,-16.667,-49.25,Place
+318,Bring Me The Horizon,Sheffield,53.38083,-1.47028,Place
+319,Central Cee,Notting Hill,51.5096,-0.2043,Place
+320,League of Legends,United States,40.0,-100.0,Country
+321,Mac DeMarco,"Duncan, British Columbia",48.7786,-123.7081,Place
+322,Benson Boone,"Monroe, Washington",47.85778,-121.98833,Place
+323,Dalex,Philadelphia,39.9528,-75.1636,Place
+324,Nickelback,"Hanna, Alberta",51.63833,-111.94194,Place
+325,Marc Anthony,New York City,40.7128,-74.0061,Place
+326,Maná,Guadalajara,20.67667,-103.3475,Place
+327,Led Zeppelin,London,51.50722,-0.1275,Place
+328,Måneskin,Rome,41.89333,12.48278,Place
+329,Florida Georgia Line,"Nashville, Tennessee",36.16222,-86.77444,Place
+330,Luis Fonsi,San Juan,18.40639,-66.06389,Place
+331,RAYE,Tooting,51.428,-0.165,Place
+332,Neton Vega,"La Paz, Baja California Sur",24.14222,-110.31083,Place
+333,Gracie Abrams,Los Angeles,34.05,-118.25,Place
+334,Timbaland,"Norfolk, Virginia",36.84694,-76.28528,Place
+335,Jeremih,Chicago,41.88194,-87.62778,Place
+336,The Lumineers,"Ramsey, New Jersey",41.061325,-74.146996,Place
+337,Oscar Maydon,Mexicali,32.66333,-115.46778,Place
+338,Anderson .Paak,"Oxnard, California",34.19139,-119.1825,Place
+339,Chase Atlantic,Cairns,-16.92,145.78,Place
+340,Julión Álvarez y su Norteño Banda,"La Concordia, Chiapas",16.117,-92.683,Place
+341,Prince Royce,New York City,40.7128,-74.0061,Place
+342,Bastille,London,51.50722,-0.1275,Place
+343,Sfera Ebbasta,Sesto San Giovanni,45.533,9.233,Place
+344,Florence + The Machine,London,51.50722,-0.1275,Place
+345,YG,"Compton, California",33.89667,-118.225,Place
+346,Alejandro Sanz,Madrid,40.4169,-3.7033,Place
+347,Lil Tjay,New York City,40.7128,-74.0061,Place
+348,GIVĒON,"Long Beach, California",33.76833,-118.19556,Place
+349,Billy Joel,New York City,40.7128,-74.0061,Place
+350,Luke Bryan,"Edison, Georgia",31.56083,-84.73806,Place
+351,Muse,Teignmouth,50.5515,-3.4886,Place
+352,Jonas Blue,Essex,51.75,0.583,Place
+353,Teddy Swims,"Conyers, Georgia",33.66639,-84.0075,Place
+354,Juanes,Medellín,6.23083,-75.59056,Place
+355,Jennifer Lopez,New York City,40.7128,-74.0061,Place
+356,Cartel De Santa,Santa Catarina,25.683,-100.45,Place
+357,T.I.,Atlanta,33.74889,-84.39,Place
+358,Gabito Ballesteros,Sonora,29.64611,-110.86889,Place
+359,El Alfa,Bajos de Haina,18.417,-70.033,Place
+360,Alka Yagnik,Kolkata,22.5675,88.37,Place
+361,Blessd,Itagüí,6.167,-75.617,Place
+362,NATTI NATASHA,Santiago de los Caballeros,19.45722,-70.68889,Place
+363,Bruce Springsteen,"Long Branch, New Jersey",40.295372,-73.989899,Place
+364,Alfredo Olivas,Ciudad Obregón,27.49389,-109.93889,Place
+365,Jonas Brothers,"Wyckoff, New Jersey",40.999093,-74.168849,Place
+366,Hans Zimmer,Frankfurt,50.11056,8.68222,Place
+367,Julia Michaels,"Davenport, Iowa",41.55682,-90.603948,Place
+368,Deftones,"Sacramento, California",38.58111,-121.49389,Place
+369,Clairo,Atlanta,33.74889,-84.39,Place
+370,Whitney Houston,"Newark, New Jersey",40.7356,-74.1722,Place
+371,Tove Lo,Helsingborg,56.05,12.717,Place
+372,DJ Luian,Carolina,18.40611,-65.96722,Place
+373,Amy Winehouse,"Southgate, London",51.6316,-0.1265,Place
+374,TV Girl,San Diego,32.715,-117.1625,Place
+375,Tanishk Bagchi,Kolkata,22.5675,88.37,Place
+376,Dave,Amsterdam,52.37278,4.89361,Place
+377,Avril Lavigne,"Belleville, Ontario",44.167,-77.383,Place
+378,Lost Frequencies,Brussels,50.84667,4.3525,Place
+379,Kings of Leon,"Mount Juliet, Tennessee",36.20278,-86.51361,Place
+380,Joan Sebastian,Juliantla,18.317,-99.867,Place
+381,Alejandro Fernández,Guadalajara,20.67667,-103.3475,Place
+382,Glass Animals,Oxford,51.75194,-1.25778,Place
+383,Sachin-Jigar,Mumbai,19.07611,72.8775,Place
+384,Fetty Wap,"Paterson, New Jersey",40.91667,-74.17222,Place
+385,NAV,Toronto,43.6525,-79.38167,Place
+386,Jack Johnson,North Shore,21.6197,-158.0856,Place
+387,SEVENTEEN,Seoul,37.56,126.99,Place
+388,The Script,Dublin,53.35,-6.26028,Place
+389,TINI,Buenos Aires,-34.60389,-58.38139,Place
+390,Backstreet Boys,"Orlando, Florida",28.54222,-81.37917,Place
+391,Jimin,Busan,35.18,129.075,Place
+392,Mambo Kingz,Carolina,18.40611,-65.96722,Place
+393,NLE Choppa,"Memphis, Tennessee",35.14611,-90.05194,Place
+394,GIMS,Kinshasa,-4.32194,15.31194,Place
+395,Calibre 50,Mazatlán,23.217,-106.417,Place
+396,Chappell Roan,"Willard, Missouri",37.29444,-93.42333,Place
+397,Stevie Wonder,"Saginaw, Michigan",43.42,-83.95,Place
+398,Juicy J,"Memphis, Tennessee",35.14611,-90.05194,Place
+399,Mark Ronson,London,51.50722,-0.1275,Place
+400,Kelly Clarkson,"Fort Worth, Texas",32.75639,-97.3325,Place
+401,The Offspring,"Garden Grove, California",33.77889,-117.96028,Place
+402,Bonez MC,Hamburg,53.55,10.0,Place
+403,Bibi Blocksberg,Suhl,50.61056,10.69306,Place
+404,Milo j,"Morón, Buenos Aires",-34.65,-58.617,Place
+405,Jay Wheeler,"Salinas, Puerto Rico",17.977,-66.298,Place
+406,felix jaehn,Hamburg,53.55,10.0,Place
+407,Niall Horan,Mullingar,53.5224,-7.3378,Place
+408,6ix9ine,New York City,40.7128,-74.0061,Place
+409,Nate Dogg,"Long Beach, California",33.76833,-118.19556,Place
+410,Noriel,Hato Rey,18.4235,-66.0576,Place
+411,Vicente Fernández,Guadalajara,20.67667,-103.3475,Place
+412,Three Days Grace,"Norwood, Ontario",44.35306,-78.01833,Place
+413,Aerosmith,Boston,42.36028,-71.05778,Place
+414,Bee Gees,United Kingdom,55.0,-3.0,Country
+415,Udit Narayan,Supaul district,25.93,86.25,Place
+416,Piso 21,Medellín,6.23083,-75.59056,Place
+417,Rod Wave,"St. Petersburg, Florida",27.82222,-82.67056,Place
+418,Vance Joy,Melbourne,-37.81417,144.96306,Place
+419,Bon Iver,"Eau Claire, Wisconsin",44.817,-91.5,Place
+420,Eslabon Armado,"Patterson, California",37.47306,-121.13278,Place
+421,JENNIE,Seongnam,37.433,127.15,Place
+422,Russ,"Secaucus, New Jersey",40.781958,-74.067649,Place
+423,Rae Sremmurd,"Tupelo, Mississippi",34.25972,-88.72583,Place
+424,Jess Glynne,Hampstead,51.5541,-0.1744,Place
+425,The Smiths,Manchester,53.47944,-2.24528,Place
+426,Eagles,Los Angeles,34.05,-118.25,Place
+427,The Police,London,51.50722,-0.1275,Place
+428,Phil Collins,London,51.50722,-0.1275,Place
+429,The Strokes,"New York City, New York",40.7128,-74.0061,Place
+430,Atif Aslam,Wazirabad,32.43528,74.11417,Place
+431,Ovy On The Drums,Medellín,6.23083,-75.59056,Place
+432,Olivia Dean,Tottenham,51.5975,-0.06806,Place
+433,Dire Straits,London,51.50722,-0.1275,Place
+434,NewJeans,Seoul,37.56,126.99,Place
+435,Avenged Sevenfold,"Huntington Beach, California",33.69278,-118.00028,Place
+436,Ricardo Arjona,Jocotenango,14.58194,-90.74361,Place
+437,Los Ángeles Azules,Iztapalapa,19.35833,-99.09306,Place
+438,Rex Orange County,United Kingdom,55.0,-3.0,Country
+439,ScHoolboy Q,Wiesbaden,50.0825,8.24,Place
+440,6LACK,Baltimore,39.28944,-76.61528,Place
+441,Disclosure,Reigate,51.237,-0.206,Place
+442,Brytiago,"Carolina, Puerto Rico",18.40611,-65.96722,Place
+443,Alesso,Stockholm,59.32944,18.06861,Place
+444,RAF Camora,Vevey,46.467,6.85,Place
+445,Nelly,"Austin, Texas",30.26722,-97.74306,Place
+446,Mumford & Sons,London,51.50722,-0.1275,Place
+447,Kumaar,Singapore,1.283,103.833,Place
+448,Pearl Jam,Seattle,47.60389,-122.33,Place
+449,Zion,"Carolina, Puerto Rico",18.40611,-65.96722,Place
+450,Ryan Castro,"Bello, Antioquia",6.333,-75.567,Place
+451,Nelly Furtado,"Victoria, British Columbia",48.42833,-123.36472,Place
+452,Wesley Safadão,Fortaleza,-3.7275,-38.5275,Place
+453,Disturbed,"Chicago, Illinois",41.88194,-87.62778,Place
+454,H.E.R.,"Vallejo, California",38.11306,-122.23583,Place
+455,Rita Ora,Pristina,42.66667,21.16667,Place
+456,Kevin Gates,United States,40.0,-100.0,Country
+457,beabadoobee,Iloilo City,10.7,122.57,Place
+458,Karan Aujla,Ludhiana district,30.883,75.85,Place
+459,Céline Dion,"Charlemagne, Quebec",45.717,-73.483,Place
+460,Bryan Adams,"Kingston, Ontario",44.23056,-76.48111,Place
+461,ENHYPEN,Seoul,37.56,126.99,Place
+462,Dominic Fike,"Naples, Florida",26.13611,-81.79444,Place
+463,Ana Castela,Amambai,-23.10389,-55.22583,Place
+464,LANY,Nashville ,36.16222,-86.77444,Place
+465,Johnny Cash,"Kingsland, Arkansas",33.87,-92.27917,Place
+466,B.o.B,"Winston-Salem, North Carolina",36.10278,-80.26083,Place
+467,Jason Aldean,"Macon, Georgia",32.83472,-83.65167,Place
+468,Luan Santana,Campo Grande,-20.48389,-54.615,Place
+469,KHEA,"Virreyes, Buenos Aires",-34.45,-58.533,Place
+470,Maiara & Maraisa,São José dos Quatro Marcos,-15.6208,-58.1758,Place
+471,Mc IG,Duque de Caxias,-22.78583,-43.31194,Place
+472,Tiago PZK,Monte Grande,-34.827194,-58.462028,Place
+473,Tom Odell,Chichester,50.8365,-0.7792,Place
+474,Macklemore & Ryan Lewis,"Seattle, Washington",47.60389,-122.33,Place
+475,Thomas Rhett,"Valdosta, Georgia",30.84667,-83.28306,Place
+476,MØ,Ubberud,55.39694,10.25583,Place
+477,Five Finger Death Punch,Las Vegas,36.16917,-115.14056,Place
+478,Kane Brown,"Chattanooga, Tennessee",35.04583,-85.30944,Place
+479,Laufey,Reykjavík,64.14583,-21.9425,Place
+480,Grupo Menos É Mais,Gama,-16.01944,-48.06694,Place
+481,Nicki Nicole,Rosario,-32.9575,-60.63944,Place
+482,Moneybagg Yo,"Memphis, Tennessee",35.14611,-90.05194,Place
+483,Magenta,Wales,52.3,-3.8,Place
+484,Ryan Lewis,"Spokane, Washington",47.65889,-117.425,Place
+485,Morad,L'Hospitalet de Llobregat,41.35972,2.1,Place
+486,Calum Scott,Beverley,53.84361,-0.43,Place
+487,TOMORROW X TOGETHER,Seoul,37.56,126.99,Place
+488,Grupo Marca Registrada,Culiacán,24.80694,-107.39389,Place
+489,benny blanco,"Reston, Virginia",38.95889,-77.35861,Place
+490,JID,Atlanta,33.74889,-84.39,Place
+491,YNW Melly,United States,40.0,-100.0,Country
+493,Los Temerarios,"Fresnillo, Zacatecas",23.175,-102.8675,Place
+492,Juan Gabriel,Parácuaro,19.14667,-102.21944,Place
+494,Jason Mraz,"Mechanicsville, Virginia",37.60389,-77.37222,Place
+495,The Cure,Crawley,51.10917,-0.18722,Place
+496,The Marías,Los Angeles,34.05,-118.25,Place
+497,Limp Bizkit,"Jacksonville, Florida",30.32611,-81.65806,Place
+498,Korn,"Bakersfield, California",35.3733,-119.0189,Place
+499,Omar Courtz,Carolina,18.40611,-65.96722,Place
